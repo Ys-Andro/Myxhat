@@ -1,0 +1,6 @@
+{
+  "name": "Persona AI",
+  "description": "Interactive customizable AI companion with personality customization, multimodal chat, voice calls, and visual generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
